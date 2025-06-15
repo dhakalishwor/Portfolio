@@ -4,7 +4,7 @@ const ContactMe=()=>{
     return(
         <>
         <Nav/>
-        <h1>This sectio id s about me!!</h1>
+        <h1>This sectio is about me!!</h1>
         </>
     )
 }
